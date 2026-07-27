@@ -10,12 +10,39 @@ Currently learning React and expanding my frontend development skills.
 
 ## 🛠 Tech Stack
 
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-</div>
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+</p>
+
+
+## 🛠 Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,html,css" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,threejs" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ---
 
