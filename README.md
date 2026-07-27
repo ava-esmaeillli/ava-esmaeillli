@@ -41,26 +41,9 @@ A simple expense management application with filtering and LocalStorage.
 
 ## 📊 GitHub Stats
 
-![Ava's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ava-esmaeillli&show_icons=true&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ava-esmaeillli&show_icons=true&theme=dracula)
-
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ava-esmaeillli&show_icons=true&theme=radical)
-
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ava-esmaeillli&show_icons=true&theme=synthwave)
-
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ava-esmaeillli&show_icons=true&theme=onedark)
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ava-esmaeillli&layout=compact&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ava-esmaeillli&layout=donut&theme=tokyonight)
 
-
-
-
-<div>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ava-esmaeillli&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ava-esmaeillli&layout=compact&theme=tokyonight" height="180"/>
-</div>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ava-esmaeillli&theme=tokyonight)
