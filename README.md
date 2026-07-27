@@ -10,39 +10,9 @@ Currently learning React and expanding my frontend development skills.
 
 ## 🛠 Tech Stack
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-
-## 🛠 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
 </p>
-
-
-## 🛠 Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,html,css" />
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,threejs" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ---
 
