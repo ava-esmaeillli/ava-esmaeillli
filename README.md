@@ -41,6 +41,4 @@ A simple expense management application with filtering and LocalStorage.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ava-esmaeillli&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ava-esmaeillli&layout=compact&theme=tokyonight" />
+![Ava's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ava-esmaeillli&show_icons=true&theme=tokyonight)
