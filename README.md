@@ -6,6 +6,7 @@ Building real-world projects with HTML, CSS, and Vanilla JavaScript.
 
 Currently learning React and expanding my frontend development skills.
 
+---
 
 ## 🛠 Tech Stack
 
@@ -16,6 +17,7 @@ Currently learning React and expanding my frontend development skills.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
 </div>
 
+---
 
 ## 🚀 Featured Projects
 
@@ -28,6 +30,7 @@ Interactive quiz application with dark mode and persistent settings.
 💰 Expense Tracker  
 A simple expense management application with filtering and LocalStorage.
 
+---
 
 ## 📚 Currently Learning
 
@@ -35,6 +38,7 @@ A simple expense management application with filtering and LocalStorage.
 - Three.js
 - Modern Frontend Development
 
+---
 
 ## 📊 GitHub Stats
 
