@@ -35,7 +35,6 @@ A simple expense management application with filtering and LocalStorage.
 ## 📚 Currently Learning
 
 - React
-- Three.js
 - Modern Frontend Development
 
 ---
