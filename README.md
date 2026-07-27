@@ -16,19 +16,6 @@ Currently learning React and expanding my frontend development skills.
 
 ---
 
-## 🚀 Featured Projects
-
-📝 Todo App  
-A task management application built with Vanilla JavaScript and LocalStorage.
-
-🎯 Quiz App  
-Interactive quiz application with dark mode and persistent settings.
-
-💰 Expense Tracker  
-A simple expense management application with filtering and LocalStorage.
-
----
-
 ## 📚 Currently Learning
 
 - React
