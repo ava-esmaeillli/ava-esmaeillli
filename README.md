@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ava ✨
 
-<!--
-**ava-esmaeillli/ava-esmaeillli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on JavaScript and creating interactive web experiences.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into real projects and continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technologies
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+
+---
+
+## 📊 GitHub Stats
+
+![Ava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ava-esmaeillli&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ava-esmaeillli&layout=compact&theme=tokyonight)
+
+---
