@@ -10,7 +10,7 @@ Currently learning React and expanding my frontend development skills.
 
 ## 🛠 Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
 </p>
 
