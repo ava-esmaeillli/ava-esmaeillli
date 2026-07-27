@@ -11,7 +11,7 @@ Currently learning React and expanding my frontend development skills.
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,github,vscode" />
 </p>
 
 ---
