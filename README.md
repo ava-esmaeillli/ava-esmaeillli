@@ -1,4 +1,4 @@
-# Ava ✨
+# Ava
 
 Frontend Developer focused on JavaScript and interactive web applications.
 
